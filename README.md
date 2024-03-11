@@ -6,6 +6,10 @@ Devanagari-to-Thai transliteration
 
 Experimental
 
+## Main repository
+
+https://codeberg.org/veer66/devanagari-to-thai/
+
 ## Example
 
 ```
