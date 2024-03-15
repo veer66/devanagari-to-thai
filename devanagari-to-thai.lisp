@@ -177,6 +177,3 @@
     (flatten <>)
     (reorder <>)
     (coerce <> 'string)))
-
-(princ (str-dev-tha "मैथिलि ठाकुर"))
-(terpri)
